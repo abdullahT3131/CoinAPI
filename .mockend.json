@@ -1,0 +1,8 @@
+{
+  "new_coin": {
+    "time": { "string": {} },
+    "asset_id_base": { "string": {} },
+    "asset_id_qoute": { "string": {} },
+    "rate": { "int": {} }
+  }
+}
